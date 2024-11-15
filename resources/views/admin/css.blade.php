@@ -16,8 +16,9 @@
     <link rel="stylesheet" href="{{asset('/admincss/css/style.default.css')}}" id="theme-stylesheet">
     <!-- Custom stylesheet - for your changes-->
     <link rel="stylesheet" href="{{asset('/admincss/css/custom.css')}}">
-    <!-- Favicon-->
-    <link rel="shortcut icon" href="{{asset('/admincss/img/favicon.ico')}}">
+    <!-- Icon-->
+    <link rel="icon" type="image/x-icon" href="{{asset('logo/new_logo.png')}}">
+
     <!-- Tweaks for older IEs--><!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
