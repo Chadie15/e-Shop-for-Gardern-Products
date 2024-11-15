@@ -9,6 +9,8 @@
 <meta name="author" content="" />
 <link rel="shortcut icon" href=" {{ asset('images/favicon.png" type="image/x-icon')}}">
 
+<link rel="icon" type="image/x-icon" href="{{asset('logo/new_logo.png')}}">
+
 <title>
   Entebbe Products
 </title>
